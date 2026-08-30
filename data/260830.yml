@@ -1,0 +1,60 @@
+about:
+  description: vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes.
+  license: Apache-2.0
+  homepage: https://www.vcluster.com
+  head: 4613361
+  archived: false
+  latestVersion: v0.37.0-rc.3
+  collectedAt: 2026-08-30T03:14:23Z
+timeline:
+  created: 2021-04-08
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-26
+popularity:
+  star: 11278
+  watcher: 52
+  fork: 596
+  release: 689
+  contributor: 170
+  pullRequest: 480
+  issue: 762
+language:
+  Go: 4452993
+  Go Template: 27913
+  Shell: 15835
+  Just: 6476
+  Dockerfile: 3459
+totalLine: 4506676
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 15
+    mergedPR: 15
+    openPR: 15
+    closedIssue: 1
+    openIssue: 5
+    commit: 43
+  last90d:
+    since: 2026-06-01
+    release: 66
+    mergedPR: 115
+    openPR: 22
+    closedIssue: 6
+    openIssue: 11
+    commit: 111
+  last180d:
+    since: 2026-03-03
+    release: 100
+    mergedPR: 372
+    openPR: 38
+    closedIssue: 16
+    openIssue: 21
+    commit: 277
+  last360d:
+    since: 2025-09-04
+    release: 100
+    mergedPR: 753
+    openPR: 40
+    closedIssue: 39
+    openIssue: 27
+    commit: 516
