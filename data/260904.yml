@@ -7,7 +7,7 @@ about:
   head: fbafae6
   archived: false
   latestVersion: v0.37.0-rc.5
-  collectedAt: 2026-09-04T19:19:38Z
+  collectedAt: 2026-09-04T21:14:42Z
 timeline:
   created: 2021-04-08
   lastCommit: 2026-09-02
@@ -84,6 +84,64 @@ total:
   openIssue: 110
   commit: 4473
 ---
+path: /home/runner/.x-repo/github.com/loft-sh/vcluster
+collectedAt: 2026-09-04T21:14:51Z
+loc:
+  Go:
+    code: 107594
+    comments: 9829
+    blanks: 17240
+    files: 759
+  Yaml:
+    code: 24727
+    comments: 912
+    blanks: 1670
+    files: 138
+  Json:
+    code: 6655
+    comments: 0
+    blanks: 0
+    files: 2
+  Pan:
+    code: 754
+    comments: 0
+    blanks: 32
+    files: 9
+  Sh:
+    code: 630
+    comments: 84
+    blanks: 146
+    files: 13
+  Protobuf:
+    code: 89
+    comments: 3
+    blanks: 29
+    files: 2
+  Dockerfile:
+    code: 32
+    comments: 17
+    blanks: 18
+    files: 1
+  Svg:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 879
+    blanks: 341
+    files: 11
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 140662
+  comments: 11747
+  blanks: 19501
+  files: 938
 ---
 date: "2026-08-24"
 repo:
