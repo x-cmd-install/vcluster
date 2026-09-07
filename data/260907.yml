@@ -4,17 +4,17 @@ about:
   homepage: https://www.vcluster.com
   head: fbafae6
   archived: false
-  latestVersion: "v0.37.0-rc.5"
-  collectedAt: 2026-09-07T05:11:55Z
+  latestVersion: "v0.36.2-rc.2"
+  collectedAt: 2026-09-07T19:16:27Z
 timeline:
   created: 2021-04-08
   lastCommit: 2026-09-02
-  lastRelease: 2026-09-03
+  lastRelease: 2026-09-07
 popularity:
   star: 11295
   watcher: 54
-  fork: 598
-  release: 695
+  fork: 597
+  release: 696
   contributor: 171
   pullRequest: 3399
   issue: 763
@@ -28,62 +28,62 @@ totalBytes: 4508900
 recent:
   last30d:
     since: 2026-08-08
-    release: 13
-    mergedPR: 7
-    openPR: 15
+    release: 14
+    mergedPR: 8
+    openPR: 14
     closedIssue: 2
     openIssue: 4
     commit: 36
   last60d:
     since: 2026-07-09
-    release: 41
-    mergedPR: 53
-    openPR: 17
+    release: 42
+    mergedPR: 54
+    openPR: 16
     closedIssue: 5
     openIssue: 8
     commit: 65
   last90d:
     since: 2026-06-09
-    release: 67
-    mergedPR: 104
-    openPR: 20
+    release: 68
+    mergedPR: 105
+    openPR: 19
     closedIssue: 7
     openIssue: 11
     commit: 88
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 339
-    openPR: 36
+    mergedPR: 340
+    openPR: 35
     closedIssue: 17
     openIssue: 19
     commit: 247
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 725
-    openPR: 39
+    mergedPR: 726
+    openPR: 38
     closedIssue: 41
     openIssue: 25
     commit: 494
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1521
-    openPR: 46
+    mergedPR: 1522
+    openPR: 45
     closedIssue: 133
     openIssue: 46
     commit: 1231
 total:
-  release: 695
-  mergedPR: 2920
-  openPR: 50
+  release: 696
+  mergedPR: 2921
+  openPR: 49
   closedIssue: 653
   openIssue: 110
   commit: 4473
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/vcluster
-collectedAt: 2026-09-07T05:12:09Z
+collectedAt: 2026-09-07T19:16:47Z
 loc:
   Go:
     code: 107594
@@ -295,7 +295,7 @@ checks:
       - 'Info:   1 out of   5 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:12:14+00:00
+  collectedAt: 2026-09-07T19:17:13+00:00
   platform:
     darwin/arm64:
       name:  vcluster-darwin-arm64
