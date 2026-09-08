@@ -5,7 +5,7 @@ about:
   head: fbafae6
   archived: false
   latestVersion: "v0.36.2-rc.3"
-  collectedAt: 2026-09-08T02:25:26Z
+  collectedAt: 2026-09-08T05:03:49Z
 timeline:
   created: 2021-04-08
   lastCommit: 2026-09-02
@@ -83,7 +83,7 @@ total:
   commit: 4473
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/vcluster
-collectedAt: 2026-09-08T02:25:41Z
+collectedAt: 2026-09-08T05:04:04Z
 loc:
   Go:
     code: 107594
