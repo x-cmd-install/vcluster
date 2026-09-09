@@ -4,10 +4,10 @@ vCluster creates tenant clusters: fully isolated environments delivered as manag
 
 - **Upstream**: <https://github.com/loft-sh/vcluster>
 - **Homepage**: <https://www.vcluster.com>
-- **Latest release**: `v0.36.2-rc.3` (2026-09-02)
+- **Latest release**: `v0.37.0` (2026-09-08)
 - **Last commit**: 2026-09-02
 - **License**: Apache-2.0
-- **Stars**: 11296 · **Forks**: 597 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11295 · **Forks**: 597 · **Open issues**: 763 · **Contributors**: 171
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/vcluster> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:27:57Z._
+_Last regenerated: 2026-09-09T05:27:58Z._
