@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.37.0"
   latestRelease: "v0.37.0"
   latestPrerelease: "v0.36.2-rc.4"
-  collectedAt: 2026-09-09T05:27:16Z
+  collectedAt: 2026-09-09T19:46:01Z
 timeline:
   created: 2021-04-08
   lastCommit: 2026-09-02
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-09-08
 popularity:
-  star: 11295
+  star: 11296
   watcher: 54
   fork: 597
   release: 700
   contributor: 171
-  pullRequest: 3402
+  pullRequest: 3403
   issue: 763
 language:
   Go: 4455217
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-10
     release: 18
     mergedPR: 11
-    openPR: 14
+    openPR: 15
     closedIssue: 2
     openIssue: 4
     commit: 36
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-11
     release: 43
     mergedPR: 56
-    openPR: 16
+    openPR: 17
     closedIssue: 5
     openIssue: 8
     commit: 65
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-11
     release: 67
     mergedPR: 101
-    openPR: 18
+    openPR: 19
     closedIssue: 7
     openIssue: 11
     commit: 88
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-13
     release: 100
     mergedPR: 327
-    openPR: 35
+    openPR: 36
     closedIssue: 16
     openIssue: 19
     commit: 247
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-14
     release: 100
     mergedPR: 726
-    openPR: 38
+    openPR: 39
     closedIssue: 40
     openIssue: 25
     commit: 494
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-19
     release: 100
     mergedPR: 1513
-    openPR: 45
+    openPR: 46
     closedIssue: 132
     openIssue: 46
     commit: 1222
 total:
   release: 700
   mergedPR: 2924
-  openPR: 49
+  openPR: 50
   closedIssue: 653
   openIssue: 110
   commit: 4473
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/vcluster
-collectedAt: 2026-09-09T05:27:35Z
+collectedAt: 2026-09-09T19:46:24Z
 loc:
   Go:
     code: 107594
