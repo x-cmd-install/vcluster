@@ -7,7 +7,7 @@ vCluster creates tenant clusters: fully isolated environments delivered as manag
 - **Latest release**: `v0.37.0` (2026-09-08)
 - **Last commit**: 2026-09-02
 - **License**: Apache-2.0
-- **Stars**: 11295 · **Forks**: 597 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11296 · **Forks**: 597 · **Open issues**: 763 · **Contributors**: 171
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/vcluster> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:27:58Z._
+_Last regenerated: 2026-09-09T19:46:53Z._
