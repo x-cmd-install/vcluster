@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2865,
       "digest": "sha256:55168ffe2059a5092e4ddec9727ec5ef6e3cf3d857fe7516e47e668fc23716f6",
-      "download_count": 1611,
+      "download_count": 1613,
       "created_at": "2026-08-03T12:35:43Z",
       "updated_at": "2026-08-03T12:35:43Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.36.1/checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14565,
       "digest": "sha256:5b2745bb8ce3a0a54be6adbf242d4c25f990dcef1e345553377940d4f5321fc0",
-      "download_count": 6919,
+      "download_count": 6933,
       "created_at": "2026-08-03T12:37:51Z",
       "updated_at": "2026-08-03T12:37:51Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.36.1/install-standalone.sh"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 100728994,
       "digest": "sha256:3bb32e0aa90ecbc4ae88d8a0db7728263a6c911a488f64c53dc07ef5abd2789e",
-      "download_count": 31381,
+      "download_count": 31489,
       "created_at": "2026-08-03T12:35:39Z",
       "updated_at": "2026-08-03T12:35:44Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-linux-amd64"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 93651106,
       "digest": "sha256:42c977a91b33a9f930107d32bd58d05416a2f09b681d70773ca49c0848dd2152",
-      "download_count": 941,
+      "download_count": 942,
       "created_at": "2026-08-03T12:35:39Z",
       "updated_at": "2026-08-03T12:35:43Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-linux-arm64"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 103031296,
       "digest": "sha256:9d79c89657d72dcf77dcbd84dcd33379056a0bb4ece8e016773097b50bf4ebe2",
-      "download_count": 886,
+      "download_count": 890,
       "created_at": "2026-08-03T12:35:39Z",
       "updated_at": "2026-08-03T12:35:44Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-windows-amd64.exe"

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.37.1-rc.1"
   latestRelease: "v0.37.0"
   latestPrerelease: "v0.37.1-rc.1"
-  collectedAt: 2026-09-10T20:39:34Z
+  collectedAt: 2026-09-10T23:11:25Z
 timeline:
   created: 2021-04-08
   lastCommit: 2026-09-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-09-10
 popularity:
-  star: 11298
+  star: 11299
   watcher: 54
   fork: 598
   release: 701
@@ -87,7 +87,7 @@ total:
   commit: 4473
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/vcluster
-collectedAt: 2026-09-10T20:39:54Z
+collectedAt: 2026-09-10T23:11:47Z
 loc:
   Go:
     code: 107594
