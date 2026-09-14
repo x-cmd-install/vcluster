@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,301 · **Forks**: 599 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11,300 · **Forks**: 601 · **Open issues**: 763 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 701 · **Merged PRs**: 2924 · **Open PRs**: 54 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4473
+- **Releases**: 701 · **Merged PRs**: 2924 · **Open PRs**: 55 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 19 | 9 | 18 | 2 | 3 | 36 |
-| last60d | 2026-07-15 | 43 | 47 | 21 | 4 | 8 | 65 |
-| 90d | 2026-06-15 | 65 | 87 | 23 | 7 | 11 | 88 |
-| last180d | 2026-03-17 | 100 | 313 | 40 | 16 | 19 | 247 |
-| 360d | 2025-09-18 | 100 | 717 | 43 | 40 | 25 | 494 |
-| last720d | 2024-09-23 | 100 | 1511 | 50 | 132 | 46 | 1212 |
+| 30d | 2026-08-15 | 19 | 9 | 19 | 2 | 3 | 24 |
+| last60d | 2026-07-16 | 42 | 46 | 22 | 4 | 8 | 58 |
+| 90d | 2026-06-16 | 62 | 83 | 24 | 7 | 11 | 80 |
+| last180d | 2026-03-18 | 100 | 311 | 41 | 16 | 19 | 238 |
+| 360d | 2025-09-19 | 100 | 716 | 44 | 40 | 25 | 486 |
+| last720d | 2024-09-24 | 100 | 1503 | 51 | 131 | 46 | 1211 |
 
 ## Release assets
 
@@ -96,15 +96,6 @@ Lowest-scoring checks:
 | [vcluster-windows-amd64.exe](https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-windows-amd64.exe) | 98.3 MiB | `native/win/x64` |
 | [vcluster-windows-amd64.exe.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-windows-amd64.exe.sbom) | 361.5 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.36.1` | ✅ latest |
-| Nix unstable | `0.35.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vcluster` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +105,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:20:26Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:30:05Z._
