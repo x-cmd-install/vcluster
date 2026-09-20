@@ -4,7 +4,7 @@
 
 vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes.
 
-![vcluster](https://repo.x-cmd.io/vcluster.svg?lang=zh)
+[![x-cmd/install — vcluster Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vcluster.svg?lang=zh)](https://x-cmd.com/install/vcluster)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install vcluster
 
 ## 代码洞察
 
-合计: **140,507** 行代码（覆盖前 5 种语言、共 **921** 个文件）。
+合计: **144,206** 行代码（覆盖前 5 种语言、共 **945** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 107,594 | 9,829 | 17,240 | 759 |
-| Yaml | 24,727 | 912 | 1,670 | 138 |
+| Go | 110,524 | 10,137 | 17,676 | 779 |
+| Yaml | 25,493 | 934 | 1,670 | 142 |
 | Json | 6,655 | 0 | 0 | 2 |
-| Pan | 754 | 0 | 32 | 9 |
+| Pan | 757 | 0 | 34 | 9 |
 | Sh | 630 | 84 | 146 | 13 |
 
 ## OpenSSF Scorecard 评分
@@ -43,27 +43,27 @@ x install vcluster
 ## 发布
 
 - **最新版本**: `v0.37.1` (2026-09-14)
-- **最近提交**: 2026-09-02
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 45 个
 
 ## 流行度
 
-- **Star**: 11,302 · **Fork**: 603 · **开放 issue**: 763 · **贡献者**: 171
+- **Star**: 11,305 · **Fork**: 604 · **开放 issue**: 763 · **贡献者**: 171
 
 ## 累计统计
 
-- **发布数**: 704 · **已合并 PR**: 2927 · **开放 PR**: 53 · **已关闭 issue**: 653 · **开放 issue**: 110 · **提交数**: 4473
+- **发布数**: 704 · **已合并 PR**: 2927 · **开放 PR**: 56 · **已关闭 issue**: 653 · **开放 issue**: 110 · **提交数**: 4489
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 22 | 9 | 18 | 2 | 3 | 24 |
-| last60d | 2026-07-20 | 43 | 42 | 21 | 4 | 7 | 58 |
-| 90d | 2026-06-20 | 53 | 82 | 22 | 7 | 10 | 80 |
-| last180d | 2026-03-22 | 100 | 312 | 39 | 16 | 19 | 238 |
-| 360d | 2025-09-23 | 100 | 712 | 42 | 39 | 25 | 486 |
-| last720d | 2024-09-28 | 100 | 1500 | 49 | 130 | 46 | 1190 |
+| 30d | 2026-08-21 | 21 | 9 | 21 | 2 | 2 | 40 |
+| last60d | 2026-07-22 | 40 | 42 | 23 | 4 | 6 | 74 |
+| 90d | 2026-06-22 | 53 | 82 | 25 | 7 | 9 | 96 |
+| last180d | 2026-03-24 | 100 | 305 | 41 | 16 | 19 | 254 |
+| 360d | 2025-09-25 | 100 | 710 | 45 | 39 | 25 | 502 |
+| last720d | 2024-09-30 | 100 | 1498 | 52 | 129 | 46 | 1206 |
 
 ## Release 资产
 
@@ -124,4 +124,4 @@ vcluster 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:41:58Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:23:50Z._

@@ -4,7 +4,7 @@
 
 vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes.
 
-![vcluster](https://repo.x-cmd.io/vcluster.svg)
+[![x-cmd/install — vcluster Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vcluster.svg)](https://x-cmd.com/install/vcluster)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install vcluster
 
 ## Code insight
 
-Total: **140,507** lines of code across **921** files in the top 5 languages.
+Total: **144,206** lines of code across **945** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 107,594 | 9,829 | 17,240 | 759 |
-| Yaml | 24,727 | 912 | 1,670 | 138 |
+| Go | 110,524 | 10,137 | 17,676 | 779 |
+| Yaml | 25,493 | 934 | 1,670 | 142 |
 | Json | 6,655 | 0 | 0 | 2 |
-| Pan | 754 | 0 | 32 | 9 |
+| Pan | 757 | 0 | 34 | 9 |
 | Sh | 630 | 84 | 146 | 13 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.37.1` (2026-09-14)
-- **Last commit**: 2026-09-02
+- **Last commit**: 2026-09-18
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 11,302 · **Forks**: 603 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11,305 · **Forks**: 604 · **Open issues**: 763 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 704 · **Merged PRs**: 2927 · **Open PRs**: 53 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4473
+- **Releases**: 704 · **Merged PRs**: 2927 · **Open PRs**: 56 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 22 | 9 | 18 | 2 | 3 | 24 |
-| last60d | 2026-07-20 | 43 | 42 | 21 | 4 | 7 | 58 |
-| 90d | 2026-06-20 | 53 | 82 | 22 | 7 | 10 | 80 |
-| last180d | 2026-03-22 | 100 | 312 | 39 | 16 | 19 | 238 |
-| 360d | 2025-09-23 | 100 | 712 | 42 | 39 | 25 | 486 |
-| last720d | 2024-09-28 | 100 | 1500 | 49 | 130 | 46 | 1190 |
+| 30d | 2026-08-21 | 21 | 9 | 21 | 2 | 2 | 40 |
+| last60d | 2026-07-22 | 40 | 42 | 23 | 4 | 6 | 74 |
+| 90d | 2026-06-22 | 53 | 82 | 25 | 7 | 9 | 96 |
+| last180d | 2026-03-24 | 100 | 305 | 41 | 16 | 19 | 254 |
+| 360d | 2025-09-25 | 100 | 710 | 45 | 39 | 25 | 502 |
+| last720d | 2024-09-30 | 100 | 1498 | 52 | 129 | 46 | 1206 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:41:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:50Z._
