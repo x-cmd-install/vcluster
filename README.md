@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.37.2` (2026-09-23)
+- **Latest**: `v0.36.3-rc.1` (2026-09-23)
 - **Last commit**: 2026-09-24
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 11,317 · **Forks**: 607 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11,317 · **Forks**: 608 · **Open issues**: 763 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 706 · **Merged PRs**: 2929 · **Open PRs**: 55 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4497
+- **Releases**: 707 · **Merged PRs**: 2929 · **Open PRs**: 55 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4497
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 22 | 11 | 18 | 1 | 0 | 27 |
-| last60d | 2026-07-27 | 42 | 38 | 21 | 4 | 6 | 79 |
-| 90d | 2026-06-27 | 55 | 80 | 23 | 6 | 8 | 101 |
-| last180d | 2026-03-29 | 100 | 298 | 40 | 16 | 15 | 250 |
-| 360d | 2025-09-30 | 100 | 702 | 44 | 39 | 25 | 498 |
-| last720d | 2024-10-05 | 100 | 1493 | 51 | 127 | 46 | 1199 |
+| 30d | 2026-08-27 | 21 | 10 | 9 | 1 | 0 | 27 |
+| last60d | 2026-07-28 | 41 | 33 | 21 | 3 | 6 | 79 |
+| 90d | 2026-06-28 | 56 | 80 | 23 | 6 | 8 | 101 |
+| last180d | 2026-03-30 | 100 | 291 | 40 | 15 | 15 | 250 |
+| 360d | 2025-10-01 | 100 | 700 | 44 | 39 | 25 | 498 |
+| last720d | 2024-10-06 | 100 | 1493 | 51 | 127 | 46 | 1199 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:26:54Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:18:42Z._
