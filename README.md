@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 21 | 10 | 9 | 1 | 0 | 27 |
-| last60d | 2026-07-28 | 41 | 33 | 21 | 3 | 6 | 79 |
-| 90d | 2026-06-28 | 56 | 80 | 23 | 6 | 8 | 101 |
-| last180d | 2026-03-30 | 100 | 291 | 40 | 15 | 15 | 250 |
-| 360d | 2025-10-01 | 100 | 700 | 44 | 39 | 25 | 498 |
-| last720d | 2024-10-06 | 100 | 1493 | 51 | 127 | 46 | 1199 |
+| 30d | 2026-08-28 | 18 | 9 | 9 | 1 | 0 | 27 |
+| last60d | 2026-07-29 | 41 | 28 | 21 | 3 | 6 | 79 |
+| 90d | 2026-06-29 | 56 | 78 | 23 | 6 | 8 | 101 |
+| last180d | 2026-03-31 | 100 | 290 | 40 | 15 | 14 | 250 |
+| 360d | 2025-10-02 | 100 | 698 | 44 | 39 | 25 | 498 |
+| last720d | 2024-10-07 | 100 | 1488 | 51 | 126 | 46 | 1199 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:18:42Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:46:15Z._
