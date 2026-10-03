@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,327 · **Forks**: 611 · **Open issues**: 763 · **Contributors**: 171
+- **Stars**: 11,329 · **Forks**: 611 · **Open issues**: 764 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 709 · **Merged PRs**: 2929 · **Open PRs**: 60 · **Closed issues**: 653 · **Open issues**: 110 · **Commits**: 4501
+- **Releases**: 709 · **Merged PRs**: 2929 · **Open PRs**: 60 · **Closed issues**: 654 · **Open issues**: 110 · **Commits**: 4501
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 17 | 9 | 14 | 0 | 0 | 26 |
-| last60d | 2026-08-03 | 33 | 26 | 26 | 2 | 4 | 74 |
-| 90d | 2026-07-04 | 57 | 64 | 28 | 6 | 8 | 101 |
-| last180d | 2026-04-05 | 100 | 269 | 44 | 12 | 14 | 242 |
-| 360d | 2025-10-07 | 100 | 691 | 49 | 39 | 24 | 496 |
-| last720d | 2024-10-12 | 100 | 1474 | 56 | 125 | 46 | 1163 |
+| 30d | 2026-09-03 | 15 | 8 | 14 | 1 | 0 | 26 |
+| last60d | 2026-08-04 | 31 | 20 | 26 | 3 | 4 | 74 |
+| 90d | 2026-07-05 | 57 | 64 | 28 | 7 | 8 | 101 |
+| last180d | 2026-04-06 | 100 | 267 | 44 | 13 | 14 | 242 |
+| 360d | 2025-10-08 | 100 | 690 | 49 | 40 | 24 | 496 |
+| last720d | 2024-10-13 | 100 | 1474 | 56 | 126 | 46 | 1163 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:58:13Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:40:47Z._
