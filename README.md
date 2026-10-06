@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.37.3-rc.1` (2026-09-28)
-- **Last commit**: 2026-09-29
+- **Latest**: `v0.37.3` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 11,330 · **Forks**: 611 · **Open issues**: 764 · **Contributors**: 171
+- **Stars**: 11,334 · **Forks**: 611 · **Open issues**: 764 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 709 · **Merged PRs**: 2929 · **Open PRs**: 60 · **Closed issues**: 654 · **Open issues**: 110 · **Commits**: 4501
+- **Releases**: 711 · **Merged PRs**: 2929 · **Open PRs**: 60 · **Closed issues**: 654 · **Open issues**: 110 · **Commits**: 4502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 14 | 8 | 14 | 1 | 0 | 17 |
-| last60d | 2026-08-06 | 31 | 16 | 26 | 3 | 4 | 68 |
-| 90d | 2026-07-07 | 57 | 62 | 28 | 7 | 8 | 95 |
-| last180d | 2026-04-08 | 100 | 255 | 43 | 13 | 12 | 213 |
-| 360d | 2025-10-10 | 100 | 682 | 49 | 40 | 24 | 483 |
-| last720d | 2024-10-15 | 100 | 1470 | 56 | 124 | 46 | 1158 |
+| 30d | 2026-09-06 | 16 | 8 | 13 | 1 | 0 | 18 |
+| last60d | 2026-08-07 | 32 | 16 | 26 | 3 | 4 | 69 |
+| 90d | 2026-07-08 | 58 | 62 | 28 | 7 | 8 | 96 |
+| last180d | 2026-04-09 | 100 | 245 | 43 | 13 | 12 | 214 |
+| 360d | 2025-10-11 | 100 | 682 | 49 | 40 | 24 | 484 |
+| last720d | 2024-10-16 | 100 | 1467 | 56 | 124 | 46 | 1153 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:05:28Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:52:28Z._
