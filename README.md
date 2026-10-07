@@ -30,7 +30,7 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.37.3` (2026-10-05)
+- **Latest**: `v0.38.0-alpha.1` (2026-10-05)
 - **Last commit**: 2026-10-05
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 11,334 · **Forks**: 611 · **Open issues**: 764 · **Contributors**: 171
+- **Stars**: 11,332 · **Forks**: 611 · **Open issues**: 765 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 711 · **Merged PRs**: 2929 · **Open PRs**: 60 · **Closed issues**: 654 · **Open issues**: 110 · **Commits**: 4502
+- **Releases**: 712 · **Merged PRs**: 2929 · **Open PRs**: 61 · **Closed issues**: 654 · **Open issues**: 111 · **Commits**: 4502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 16 | 8 | 13 | 1 | 0 | 18 |
-| last60d | 2026-08-07 | 32 | 16 | 26 | 3 | 4 | 69 |
-| 90d | 2026-07-08 | 58 | 62 | 28 | 7 | 8 | 96 |
-| last180d | 2026-04-09 | 100 | 245 | 43 | 13 | 12 | 214 |
-| 360d | 2025-10-11 | 100 | 682 | 49 | 40 | 24 | 484 |
-| last720d | 2024-10-16 | 100 | 1467 | 56 | 124 | 46 | 1153 |
+| 30d | 2026-09-07 | 17 | 8 | 14 | 1 | 1 | 18 |
+| last60d | 2026-08-08 | 30 | 16 | 27 | 3 | 5 | 69 |
+| 90d | 2026-07-09 | 58 | 62 | 29 | 6 | 9 | 96 |
+| last180d | 2026-04-10 | 100 | 236 | 43 | 13 | 13 | 214 |
+| 360d | 2025-10-12 | 100 | 682 | 50 | 40 | 25 | 484 |
+| last720d | 2024-10-17 | 100 | 1467 | 57 | 123 | 47 | 1147 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:52:28Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:19:38Z._
