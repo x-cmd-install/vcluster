@@ -30,7 +30,7 @@ x install vcluster
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install vcluster
 ## 发布
 
 - **最新版本**: `v0.38.0-alpha.2` (2026-10-05)
-- **最近提交**: 2026-10-08
+- **最近提交**: 2026-10-12
 - **Release 含资产**: 45 个
 
 ## 流行度
 
-- **Star**: 11,343 · **Fork**: 616 · **开放 issue**: 771 · **贡献者**: 172
+- **Star**: 11,347 · **Fork**: 616 · **开放 issue**: 771 · **贡献者**: 172
 
 ## 累计统计
 
-- **发布数**: 713 · **已合并 PR**: 2931 · **开放 PR**: 65 · **已关闭 issue**: 656 · **开放 issue**: 115 · **提交数**: 4506
+- **发布数**: 713 · **已合并 PR**: 2931 · **开放 PR**: 65 · **已关闭 issue**: 656 · **开放 issue**: 115 · **提交数**: 4507
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 12 | 7 | 13 | 3 | 5 | 20 |
-| last60d | 2026-08-13 | 31 | 17 | 31 | 5 | 8 | 60 |
-| 90d | 2026-07-14 | 55 | 55 | 33 | 7 | 13 | 94 |
-| last180d | 2026-04-15 | 100 | 211 | 47 | 15 | 17 | 194 |
-| 360d | 2025-10-17 | 100 | 679 | 54 | 41 | 28 | 474 |
-| last720d | 2024-10-22 | 100 | 1464 | 61 | 125 | 51 | 1147 |
+| 30d | 2026-09-13 | 12 | 7 | 12 | 3 | 5 | 21 |
+| last60d | 2026-08-14 | 31 | 16 | 30 | 5 | 8 | 61 |
+| 90d | 2026-07-15 | 55 | 54 | 33 | 7 | 13 | 95 |
+| last180d | 2026-04-16 | 100 | 208 | 46 | 15 | 17 | 195 |
+| 360d | 2025-10-18 | 100 | 679 | 54 | 41 | 28 | 475 |
+| last720d | 2024-10-23 | 100 | 1464 | 61 | 125 | 51 | 1146 |
 
 ## Release 资产
 
@@ -124,4 +124,4 @@ vcluster 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:24:43Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:19:52Z._
