@@ -1,28 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: vcluster
-  visiblename: vcluster
-  version: 0.29.1
-  origversion: null
-  status: outdated
-  summary: Create fully functional virtual Kubernetes clusters
-  maintainers:
-    - peter.romfeld.hk@gmail.com
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: vcluster
-  visiblename: vcluster
-  version: 0.24.1
-  origversion: null
-  status: outdated
-  summary: Create fully functional virtual Kubernetes clusters
-  maintainers:
-    - berryphillips@gmail.com
-    - peter.romfeld.hk@gmail.com
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: vcluster
   binname: vcluster
@@ -63,7 +38,7 @@
 - repo: homebrew
   srcname: vcluster
   visiblename: vcluster
-  version: 0.37.4
+  version: 0.37.5
   origversion: null
   status: newest
   summary: Creates fully functional virtual k8s cluster inside host k8s cluster's namespace
@@ -100,6 +75,31 @@
     - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: vcluster
+  visiblename: vcluster
+  version: 0.24.1
+  origversion: null
+  status: outdated
+  summary: Create fully functional virtual Kubernetes clusters
+  maintainers:
+    - berryphillips@gmail.com
+    - peter.romfeld.hk@gmail.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: vcluster
+  visiblename: vcluster
+  version: 0.29.1
+  origversion: null
+  status: outdated
+  summary: Create fully functional virtual Kubernetes clusters
+  maintainers:
+    - peter.romfeld.hk@gmail.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: vcluster
   visiblename: vcluster
@@ -128,7 +128,7 @@
   subrepo: main
   binname: vcluster
   visiblename: vcluster
-  version: 0.37.4
+  version: 0.37.5
   origversion: null
   status: newest
   licenses:
