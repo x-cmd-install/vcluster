@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.38.0-alpha.8` (2026-10-29)
+- **Latest**: `v0.37.6` (2026-10-30)
 - **Last commit**: 2026-10-28
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,369 · **Forks**: 627 · **Open issues**: 781 · **Contributors**: 174
+- **Stars**: 11,370 · **Forks**: 628 · **Open issues**: 782 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 744 · **Merged PRs**: 2955 · **Open PRs**: 74 · **Closed issues**: 657 · **Open issues**: 124 · **Commits**: 4523
+- **Releases**: 746 · **Merged PRs**: 2955 · **Open PRs**: 75 · **Closed issues**: 657 · **Open issues**: 125 · **Commits**: 4523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 36 | 23 | 19 | 3 | 14 | 22 |
-| last60d | 2026-08-31 | 55 | 35 | 28 | 5 | 14 | 50 |
-| 90d | 2026-08-01 | 68 | 52 | 40 | 6 | 19 | 97 |
-| last180d | 2026-05-03 | 100 | 196 | 53 | 14 | 26 | 189 |
-| 360d | 2025-11-04 | 100 | 645 | 63 | 40 | 37 | 460 |
-| last720d | 2024-11-09 | 100 | 1466 | 70 | 124 | 60 | 1124 |
+| 30d | 2026-10-01 | 38 | 23 | 20 | 3 | 15 | 22 |
+| last60d | 2026-09-01 | 56 | 35 | 29 | 5 | 15 | 50 |
+| 90d | 2026-08-02 | 70 | 52 | 41 | 6 | 20 | 97 |
+| last180d | 2026-05-04 | 100 | 196 | 54 | 14 | 27 | 189 |
+| 360d | 2025-11-05 | 100 | 643 | 64 | 39 | 38 | 460 |
+| last720d | 2024-11-10 | 100 | 1465 | 71 | 124 | 61 | 1121 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:15:11Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:02:57Z._
