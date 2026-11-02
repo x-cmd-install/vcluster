@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3600,
       "digest": "sha256:eafa33468ed62c953e13517cd4a38f4fe34b0fa0a19ad69e514015a6426159ac",
-      "download_count": 215,
+      "download_count": 229,
       "created_at": "2026-10-29T23:27:14Z",
       "updated_at": "2026-10-29T23:27:14Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10448,
       "digest": "sha256:085e3bc2b55b22a0dd6dba38f8a5a82d25193dce94d0cc1e3549c81e2b614351",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-10-29T23:27:14Z",
       "updated_at": "2026-10-29T23:27:14Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/checksums.txt.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 214,
       "digest": "sha256:a90060733b3b15289721eac16ba238296fe0f8ce855f44e33eb4d2ba18973656",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-29T23:27:13Z",
       "updated_at": "2026-10-29T23:27:13Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/images-optional.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 16154,
       "digest": "sha256:4f993346457a0357b8609fa3be0c49bb9102b0856eee2560a6b2344c492c9d01",
-      "download_count": 112,
+      "download_count": 229,
       "created_at": "2026-10-29T23:26:52Z",
       "updated_at": "2026-10-29T23:26:52Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/install-standalone.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 115765410,
       "digest": "sha256:1ff704229663da5b8bb91e89cbc1a54980188b140e4485baf970da823a159b86",
-      "download_count": 18,
+      "download_count": 41,
       "created_at": "2026-10-29T23:26:56Z",
       "updated_at": "2026-10-29T23:27:03Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/syncer-linux-amd64"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 103721936,
       "digest": "sha256:639bb0b1ce680917469c889ba3fd68ee24eb3cf0959c7911bac3dc23d772f04e",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-10-29T23:27:03Z",
       "updated_at": "2026-10-29T23:27:08Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-darwin-amd64"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 97303794,
       "digest": "sha256:79809f951ebf60956904b3bd529aa83f571dff2b3c103da3fdb796f22e7c77ce",
-      "download_count": 111,
+      "download_count": 124,
       "created_at": "2026-10-29T23:27:06Z",
       "updated_at": "2026-10-29T23:27:10Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-darwin-arm64"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 101445794,
       "digest": "sha256:a6720986d05dd3af15d68689b5e19ed769b694bc25d79e3f626f97795c2c56ca",
-      "download_count": 1248,
+      "download_count": 1468,
       "created_at": "2026-10-29T23:27:07Z",
       "updated_at": "2026-10-29T23:27:12Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-linux-amd64"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 166674594,
       "digest": "sha256:b4d079044abbd46ab21309586f10e9d7ecfedb1db9d0acf7c63f610227db20fe",
-      "download_count": 70,
+      "download_count": 95,
       "created_at": "2026-10-29T23:26:52Z",
       "updated_at": "2026-10-29T23:27:06Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-linux-amd64-standalone"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 222717440,
       "digest": "sha256:b55b5c3cb129831699024ef1f81be6dbd3ffa1c3c3e954cf19019adfe44fafab",
-      "download_count": 15,
+      "download_count": 34,
       "created_at": "2026-10-29T23:26:52Z",
       "updated_at": "2026-10-29T23:27:10Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-linux-amd64-standalone-fips"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 94372002,
       "digest": "sha256:d87613616eb24d03190a5af200a8a8169a2c9964e574b75af16c61d6b8f06269",
-      "download_count": 67,
+      "download_count": 86,
       "created_at": "2026-10-29T23:27:08Z",
       "updated_at": "2026-10-29T23:27:13Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-linux-arm64"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 103758336,
       "digest": "sha256:ddb861a9fa9e5884a8677da9d9e8d7c57a9e17172dd5084bee71eda33a052589",
-      "download_count": 82,
+      "download_count": 109,
       "created_at": "2026-10-29T23:27:09Z",
       "updated_at": "2026-10-29T23:27:13Z",
       "browser_download_url": "https://github.com/loft-sh/vcluster/releases/download/v0.37.5/vcluster-windows-amd64.exe"
