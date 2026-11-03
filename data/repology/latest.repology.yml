@@ -38,7 +38,7 @@
 - repo: homebrew
   srcname: vcluster
   visiblename: vcluster
-  version: 0.37.5
+  version: 0.37.6
   origversion: null
   status: newest
   summary: Creates fully functional virtual k8s cluster inside host k8s cluster's namespace
@@ -128,7 +128,7 @@
   subrepo: main
   binname: vcluster
   visiblename: vcluster
-  version: 0.37.5
+  version: 0.37.6
   origversion: null
   status: newest
   licenses:
