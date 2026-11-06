@@ -14,11 +14,11 @@ x install vcluster
 
 ## Code insight
 
-Total: **147,020** lines of code across **962** files in the top 5 languages.
+Total: **147,061** lines of code across **963** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 113,131 | 10,427 | 18,070 | 795 |
+| Go | 113,172 | 10,429 | 18,076 | 796 |
 | Yaml | 25,591 | 946 | 1,669 | 142 |
 | Json | 6,738 | 0 | 0 | 2 |
 | Pan | 757 | 0 | 34 | 9 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.38.0-rc.2` (2026-10-30)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 40
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 750 · **Merged PRs**: 2961 · **Open PRs**: 75 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4531
+- **Releases**: 750 · **Merged PRs**: 2961 · **Open PRs**: 75 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 39 | 27 | 20 | 3 | 14 | 25 |
-| last60d | 2026-09-06 | 55 | 38 | 29 | 4 | 15 | 49 |
-| 90d | 2026-08-07 | 71 | 47 | 41 | 7 | 18 | 101 |
-| last180d | 2026-05-09 | 100 | 195 | 53 | 15 | 26 | 192 |
-| 360d | 2025-11-10 | 100 | 643 | 64 | 40 | 37 | 460 |
-| last720d | 2024-11-15 | 100 | 1465 | 71 | 124 | 60 | 1121 |
+| 30d | 2026-10-07 | 38 | 27 | 19 | 3 | 14 | 26 |
+| last60d | 2026-09-07 | 55 | 38 | 29 | 4 | 15 | 50 |
+| 90d | 2026-08-08 | 68 | 47 | 41 | 7 | 18 | 102 |
+| last180d | 2026-05-10 | 100 | 195 | 53 | 15 | 26 | 193 |
+| 360d | 2025-11-11 | 100 | 643 | 64 | 40 | 37 | 461 |
+| last720d | 2024-11-16 | 100 | 1465 | 71 | 124 | 60 | 1122 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:18:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:09:38Z._
