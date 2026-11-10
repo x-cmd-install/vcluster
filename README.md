@@ -14,23 +14,23 @@ x install vcluster
 
 ## Code insight
 
-Total: **147,061** lines of code across **963** files in the top 5 languages.
+Total: **148,296** lines of code across **974** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 113,172 | 10,429 | 18,076 | 796 |
-| Yaml | 25,591 | 946 | 1,669 | 142 |
+| Go | 114,355 | 10,509 | 18,221 | 805 |
+| Yaml | 25,643 | 947 | 1,671 | 144 |
 | Json | 6,738 | 0 | 0 | 2 |
 | Pan | 757 | 0 | 34 | 9 |
 | Sh | 656 | 91 | 155 | 14 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.38.0-rc.2` (2026-10-30)
-- **Last commit**: 2026-11-05
+- **Latest**: `v0.37.7-rc.4` (2026-10-30)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,371 · **Forks**: 627 · **Open issues**: 782 · **Contributors**: 176
+- **Stars**: 11,372 · **Forks**: 626 · **Open issues**: 782 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 750 · **Merged PRs**: 2961 · **Open PRs**: 74 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4532
+- **Releases**: 752 · **Merged PRs**: 2961 · **Open PRs**: 74 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 37 | 25 | 17 | 1 | 11 | 18 |
-| last60d | 2026-09-10 | 50 | 35 | 27 | 4 | 15 | 46 |
-| 90d | 2026-08-11 | 68 | 47 | 40 | 7 | 17 | 89 |
-| last180d | 2026-05-13 | 100 | 186 | 51 | 15 | 25 | 187 |
-| 360d | 2025-11-14 | 100 | 641 | 63 | 39 | 37 | 455 |
-| last720d | 2024-11-19 | 100 | 1464 | 70 | 124 | 60 | 1122 |
+| 30d | 2026-10-11 | 39 | 25 | 17 | 0 | 11 | 21 |
+| last60d | 2026-09-11 | 51 | 35 | 27 | 4 | 15 | 49 |
+| 90d | 2026-08-12 | 70 | 46 | 40 | 7 | 17 | 92 |
+| last180d | 2026-05-14 | 100 | 186 | 51 | 15 | 25 | 190 |
+| 360d | 2025-11-15 | 100 | 641 | 63 | 39 | 37 | 458 |
+| last720d | 2024-11-20 | 100 | 1460 | 70 | 123 | 60 | 1123 |
 
 ## Release assets
 
@@ -112,7 +112,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:47Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:51:30Z._
