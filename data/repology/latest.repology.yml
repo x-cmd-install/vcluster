@@ -1,10 +1,23 @@
+- repo: nix_stable_25_05
+  srcname: vcluster
+  visiblename: vcluster
+  version: 0.24.1
+  origversion: null
+  status: outdated
+  summary: Create fully functional virtual Kubernetes clusters
+  maintainers:
+    - berryphillips@gmail.com
+    - peter.romfeld.hk@gmail.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: vcluster
   binname: vcluster
   visiblename: vcluster
-  version: 0.37.2
-  origversion: 0.37.2-1
-  status: outdated
+  version: 0.37.6
+  origversion: 0.37.6-1
+  status: newest
   summary: Create fully functional virtual Kubernetes clusters
   maintainers:
     - vianney@aur
@@ -14,9 +27,9 @@
   srcname: vcluster-bin
   binname: vcluster-bin
   visiblename: vcluster-bin
-  version: 0.37.2
-  origversion: 0.37.2-1
-  status: outdated
+  version: 0.37.6
+  origversion: 0.37.6-1
+  status: newest
   summary: Create fully functional virtual Kubernetes clusters
   maintainers:
     - duologic@aur
@@ -66,19 +79,6 @@
   srcname: vcluster
   visiblename: vcluster
   version: 0.19.7
-  origversion: null
-  status: outdated
-  summary: Create fully functional virtual Kubernetes clusters
-  maintainers:
-    - berryphillips@gmail.com
-    - peter.romfeld.hk@gmail.com
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: vcluster
-  visiblename: vcluster
-  version: 0.24.1
   origversion: null
   status: outdated
   summary: Create fully functional virtual Kubernetes clusters
