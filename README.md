@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.37.7-rc.4` (2026-10-30)
+- **Latest**: `v0.37.7` (2026-11-10)
 - **Last commit**: 2026-11-09
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,372 · **Forks**: 626 · **Open issues**: 782 · **Contributors**: 177
+- **Stars**: 11,375 · **Forks**: 626 · **Open issues**: 782 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 752 · **Merged PRs**: 2961 · **Open PRs**: 74 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4535
+- **Releases**: 753 · **Merged PRs**: 2961 · **Open PRs**: 74 · **Closed issues**: 658 · **Open issues**: 124 · **Commits**: 4535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 39 | 25 | 17 | 0 | 11 | 21 |
-| last60d | 2026-09-11 | 51 | 35 | 27 | 4 | 15 | 49 |
-| 90d | 2026-08-12 | 70 | 46 | 40 | 7 | 17 | 92 |
-| last180d | 2026-05-14 | 100 | 186 | 51 | 15 | 25 | 190 |
-| 360d | 2025-11-15 | 100 | 641 | 63 | 39 | 37 | 458 |
-| last720d | 2024-11-20 | 100 | 1460 | 70 | 123 | 60 | 1123 |
+| 30d | 2026-10-12 | 40 | 25 | 17 | 0 | 11 | 21 |
+| last60d | 2026-09-12 | 52 | 35 | 23 | 4 | 15 | 49 |
+| 90d | 2026-08-13 | 71 | 46 | 40 | 7 | 17 | 92 |
+| last180d | 2026-05-15 | 100 | 186 | 51 | 15 | 25 | 190 |
+| 360d | 2025-11-16 | 100 | 641 | 63 | 39 | 37 | 458 |
+| last720d | 2024-11-21 | 100 | 1458 | 70 | 123 | 60 | 1119 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:51:30Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:51:02Z._
