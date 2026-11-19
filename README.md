@@ -14,11 +14,11 @@ x install vcluster
 
 ## Code insight
 
-Total: **148,048** lines of code across **977** files in the top 5 languages.
+Total: **148,898** lines of code across **979** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 114,107 | 10,528 | 18,179 | 808 |
+| Go | 114,957 | 10,604 | 18,267 | 810 |
 | Yaml | 25,643 | 948 | 1,671 | 144 |
 | Json | 6,738 | 0 | 0 | 2 |
 | Pan | 757 | 0 | 34 | 9 |
@@ -42,81 +42,81 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.38.0-rc.3` (2026-11-10)
-- **Last commit**: 2026-11-13
+- **Latest**: `v0.38.0` (2026-11-17)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,380 · **Forks**: 632 · **Open issues**: 786 · **Contributors**: 177
+- **Stars**: 11,383 · **Forks**: 634 · **Open issues**: 787 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 754 · **Merged PRs**: 2964 · **Open PRs**: 82 · **Closed issues**: 658 · **Open issues**: 128 · **Commits**: 4539
+- **Releases**: 755 · **Merged PRs**: 2964 · **Open PRs**: 84 · **Closed issues**: 658 · **Open issues**: 129 · **Commits**: 4541
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 38 | 27 | 22 | 0 | 15 | 20 |
-| last60d | 2026-09-18 | 50 | 34 | 31 | 3 | 19 | 48 |
-| 90d | 2026-08-19 | 72 | 45 | 47 | 7 | 21 | 88 |
-| last180d | 2026-05-21 | 100 | 177 | 58 | 14 | 29 | 188 |
-| 360d | 2025-11-22 | 100 | 632 | 71 | 38 | 41 | 460 |
-| last720d | 2024-11-27 | 100 | 1453 | 78 | 120 | 64 | 1102 |
+| 30d | 2026-10-20 | 37 | 21 | 19 | 0 | 11 | 22 |
+| last60d | 2026-09-20 | 51 | 34 | 33 | 3 | 20 | 50 |
+| 90d | 2026-08-21 | 72 | 45 | 49 | 7 | 21 | 90 |
+| last180d | 2026-05-23 | 100 | 177 | 60 | 14 | 30 | 190 |
+| 360d | 2025-11-24 | 100 | 629 | 73 | 38 | 42 | 462 |
+| last720d | 2024-11-29 | 100 | 1452 | 80 | 120 | 65 | 1101 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bundle-standalone.sh](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/bundle-standalone.sh) | 4.2 KiB | `other` |
-| [checksums.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/checksums.txt) | 3.5 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/checksums.txt.sigstore.json) | 10.1 KiB | `other` |
-| [download-images.sh](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/download-images.sh) | 2.2 KiB | `other` |
-| [images-optional.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/images-optional.txt) | 214 B | `other` |
-| [images-private-nodes-optional.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/images-private-nodes-optional.txt) | 224 B | `other` |
-| [images-private-nodes.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/images-private-nodes.txt) | 188 B | `other` |
-| [images.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/images.txt) | 94 B | `other` |
-| [install-standalone.sh](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/install-standalone.sh) | 15.8 KiB | `other` |
-| [push-images.sh](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/push-images.sh) | 3.9 KiB | `other` |
-| [syncer-linux-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/syncer-linux-amd64) | 110.4 MiB | `native/linux/x64` |
-| [syncer-linux-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/syncer-linux-amd64.sbom) | 365.0 KiB | `native/linux/x64` |
-| [syncer-linux-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/syncer-linux-arm64) | 102.8 MiB | `native/linux/arm64` |
-| [syncer-linux-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/syncer-linux-arm64.sbom) | 366.4 KiB | `native/linux/arm64` |
-| [values.schema.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/values.schema.json) | 246.5 KiB | `other` |
-| [vcluster-architecture-auto-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-architecture-auto-nodes.png) | 67.8 KiB | `other` |
-| [vcluster-architecture-dedicated-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-architecture-dedicated-nodes.png) | 50.3 KiB | `other` |
-| [vcluster-architecture-private-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-architecture-private-nodes.png) | 40.9 KiB | `other` |
-| [vcluster-architecture-shared-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-architecture-shared-nodes.png) | 36.3 KiB | `other` |
-| [vcluster-architecture-standalone.png](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-architecture-standalone.png) | 39.2 KiB | `other` |
-| [vcluster-darwin-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-amd64) | 98.9 MiB | `native/darwin/x64` |
-| [vcluster-darwin-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-amd64.sbom) | 357.4 KiB | `native/darwin/x64` |
-| [vcluster-darwin-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-arm64) | 92.8 MiB | `native/darwin/arm64` |
-| [vcluster-darwin-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-darwin-arm64.sbom) | 357.4 KiB | `native/darwin/arm64` |
-| [vcluster-images-k8s-1.35.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-images-k8s-1.35.txt) | 125 B | `other` |
-| [vcluster-images-k8s-1.36.txt](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-images-k8s-1.36.txt) | 124 B | `other` |
-| [vcluster-linux-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64) | 96.7 MiB | `native/linux/x64` |
-| [vcluster-linux-amd64-standalone](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64-standalone) | 159.0 MiB | `native/linux/x64` |
-| [vcluster-linux-amd64-standalone-fips](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64-standalone-fips) | 212.4 MiB | `native/linux/x64` |
-| [vcluster-linux-amd64-standalone-fips.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64-standalone-fips.sbom.json) | 564.5 KiB | `native/linux/x64` |
-| [vcluster-linux-amd64-standalone.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64-standalone.sbom.json) | 561.3 KiB | `native/linux/x64` |
-| [vcluster-linux-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-amd64.sbom) | 360.2 KiB | `native/linux/x64` |
-| [vcluster-linux-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64) | 90.0 MiB | `native/linux/arm64` |
-| [vcluster-linux-arm64-standalone](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64-standalone) | 148.0 MiB | `native/linux/arm64` |
-| [vcluster-linux-arm64-standalone-fips](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64-standalone-fips) | 200.4 MiB | `native/linux/arm64` |
-| [vcluster-linux-arm64-standalone-fips.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64-standalone-fips.sbom.json) | 565.6 KiB | `native/linux/arm64` |
-| [vcluster-linux-arm64-standalone.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64-standalone.sbom.json) | 562.4 KiB | `native/linux/arm64` |
-| [vcluster-linux-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-linux-arm64.sbom) | 360.2 KiB | `native/linux/arm64` |
-| [vcluster-windows-amd64.exe](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-windows-amd64.exe) | 99.0 MiB | `native/win/x64` |
-| [vcluster-windows-amd64.exe.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.37.6/vcluster-windows-amd64.exe.sbom) | 362.5 KiB | `native/win/x64` |
+| [bundle-standalone.sh](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/bundle-standalone.sh) | 4.2 KiB | `other` |
+| [checksums.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/checksums.txt) | 3.5 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [download-images.sh](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/download-images.sh) | 2.2 KiB | `other` |
+| [images-optional.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/images-optional.txt) | 214 B | `other` |
+| [images-private-nodes-optional.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/images-private-nodes-optional.txt) | 224 B | `other` |
+| [images-private-nodes.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/images-private-nodes.txt) | 188 B | `other` |
+| [images.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/images.txt) | 94 B | `other` |
+| [install-standalone.sh](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/install-standalone.sh) | 15.8 KiB | `other` |
+| [push-images.sh](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/push-images.sh) | 3.9 KiB | `other` |
+| [syncer-linux-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/syncer-linux-amd64) | 111.8 MiB | `native/linux/x64` |
+| [syncer-linux-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/syncer-linux-amd64.sbom) | 376.1 KiB | `native/linux/x64` |
+| [syncer-linux-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/syncer-linux-arm64) | 104.0 MiB | `native/linux/arm64` |
+| [syncer-linux-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/syncer-linux-arm64.sbom) | 377.5 KiB | `native/linux/arm64` |
+| [values.schema.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/values.schema.json) | 248.7 KiB | `other` |
+| [vcluster-architecture-auto-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-architecture-auto-nodes.png) | 67.8 KiB | `other` |
+| [vcluster-architecture-dedicated-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-architecture-dedicated-nodes.png) | 50.3 KiB | `other` |
+| [vcluster-architecture-private-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-architecture-private-nodes.png) | 64.2 KiB | `other` |
+| [vcluster-architecture-shared-nodes.png](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-architecture-shared-nodes.png) | 31.0 KiB | `other` |
+| [vcluster-architecture-standalone.png](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-architecture-standalone.png) | 39.2 KiB | `other` |
+| [vcluster-darwin-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-darwin-amd64) | 101.0 MiB | `native/darwin/x64` |
+| [vcluster-darwin-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-darwin-amd64.sbom) | 374.1 KiB | `native/darwin/x64` |
+| [vcluster-darwin-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-darwin-arm64) | 94.7 MiB | `native/darwin/arm64` |
+| [vcluster-darwin-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-darwin-arm64.sbom) | 374.1 KiB | `native/darwin/arm64` |
+| [vcluster-images-k8s-1.35.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-images-k8s-1.35.txt) | 125 B | `other` |
+| [vcluster-images-k8s-1.36.txt](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-images-k8s-1.36.txt) | 124 B | `other` |
+| [vcluster-linux-amd64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64) | 98.8 MiB | `native/linux/x64` |
+| [vcluster-linux-amd64-standalone](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64-standalone) | 159.6 MiB | `native/linux/x64` |
+| [vcluster-linux-amd64-standalone-fips](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64-standalone-fips) | 213.1 MiB | `native/linux/x64` |
+| [vcluster-linux-amd64-standalone-fips.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64-standalone-fips.sbom.json) | 555.3 KiB | `native/linux/x64` |
+| [vcluster-linux-amd64-standalone.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64-standalone.sbom.json) | 552.2 KiB | `native/linux/x64` |
+| [vcluster-linux-amd64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-amd64.sbom) | 376.9 KiB | `native/linux/x64` |
+| [vcluster-linux-arm64](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64) | 91.9 MiB | `native/linux/arm64` |
+| [vcluster-linux-arm64-standalone](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64-standalone) | 148.6 MiB | `native/linux/arm64` |
+| [vcluster-linux-arm64-standalone-fips](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64-standalone-fips) | 201.0 MiB | `native/linux/arm64` |
+| [vcluster-linux-arm64-standalone-fips.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64-standalone-fips.sbom.json) | 556.5 KiB | `native/linux/arm64` |
+| [vcluster-linux-arm64-standalone.sbom.json](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64-standalone.sbom.json) | 553.3 KiB | `native/linux/arm64` |
+| [vcluster-linux-arm64.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-linux-arm64.sbom) | 376.9 KiB | `native/linux/arm64` |
+| [vcluster-windows-amd64.exe](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-windows-amd64.exe) | 101.1 MiB | `native/win/x64` |
+| [vcluster-windows-amd64.exe.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-windows-amd64.exe.sbom) | 379.3 KiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.37.6` | ✅ latest |
+| Homebrew | `0.38.0` | ✅ latest |
 | Nix unstable | `0.35.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:25:20Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:00:14Z._
