@@ -14,12 +14,12 @@ x install vcluster
 
 ## Code insight
 
-Total: **148,898** lines of code across **979** files in the top 5 languages.
+Total: **148,930** lines of code across **979** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 114,957 | 10,604 | 18,267 | 810 |
-| Yaml | 25,643 | 948 | 1,671 | 144 |
+| Go | 114,979 | 10,604 | 18,270 | 810 |
+| Yaml | 25,653 | 948 | 1,671 | 144 |
 | Json | 6,738 | 0 | 0 | 2 |
 | Pan | 757 | 0 | 34 | 9 |
 | Sh | 656 | 91 | 155 | 14 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.38.0` (2026-11-17)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,383 · **Forks**: 634 · **Open issues**: 787 · **Contributors**: 177
+- **Stars**: 11,384 · **Forks**: 634 · **Open issues**: 787 · **Contributors**: 178
 
 ## Totals (cumulative)
 
-- **Releases**: 755 · **Merged PRs**: 2964 · **Open PRs**: 84 · **Closed issues**: 658 · **Open issues**: 129 · **Commits**: 4541
+- **Releases**: 755 · **Merged PRs**: 2969 · **Open PRs**: 81 · **Closed issues**: 659 · **Open issues**: 128 · **Commits**: 4543
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 37 | 21 | 19 | 0 | 11 | 22 |
-| last60d | 2026-09-20 | 51 | 34 | 33 | 3 | 20 | 50 |
-| 90d | 2026-08-21 | 72 | 45 | 49 | 7 | 21 | 90 |
-| last180d | 2026-05-23 | 100 | 177 | 60 | 14 | 30 | 190 |
-| 360d | 2025-11-24 | 100 | 629 | 73 | 38 | 42 | 462 |
-| last720d | 2024-11-29 | 100 | 1452 | 80 | 120 | 65 | 1101 |
+| 30d | 2026-10-21 | 34 | 26 | 15 | 1 | 9 | 24 |
+| last60d | 2026-09-21 | 51 | 39 | 30 | 4 | 19 | 52 |
+| 90d | 2026-08-22 | 71 | 50 | 46 | 8 | 20 | 92 |
+| last180d | 2026-05-24 | 100 | 182 | 57 | 15 | 29 | 192 |
+| 360d | 2025-11-25 | 100 | 634 | 70 | 39 | 41 | 464 |
+| last720d | 2024-11-30 | 100 | 1457 | 77 | 120 | 64 | 1101 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:00:14Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:05:21Z._
