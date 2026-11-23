@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,390 · **Forks**: 634 · **Open issues**: 787 · **Contributors**: 178
+- **Stars**: 11,394 · **Forks**: 636 · **Open issues**: 787 · **Contributors**: 178
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 33 | 22 | 15 | 1 | 9 | 24 |
-| last60d | 2026-09-23 | 50 | 38 | 30 | 4 | 19 | 52 |
-| 90d | 2026-08-24 | 71 | 50 | 46 | 7 | 20 | 92 |
-| last180d | 2026-05-26 | 100 | 178 | 56 | 13 | 29 | 192 |
-| 360d | 2025-11-27 | 100 | 631 | 70 | 39 | 41 | 464 |
-| last720d | 2024-12-02 | 100 | 1454 | 77 | 120 | 64 | 1100 |
+| 30d | 2026-10-24 | 32 | 22 | 15 | 1 | 9 | 20 |
+| last60d | 2026-09-24 | 49 | 38 | 30 | 4 | 19 | 42 |
+| 90d | 2026-08-25 | 71 | 50 | 45 | 7 | 19 | 70 |
+| last180d | 2026-05-27 | 100 | 177 | 56 | 13 | 29 | 185 |
+| 360d | 2025-11-28 | 100 | 630 | 69 | 39 | 41 | 459 |
+| last720d | 2024-12-03 | 100 | 1453 | 77 | 118 | 64 | 1095 |
 
 ## Release assets
 
@@ -112,7 +112,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:40:56Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:39:08Z._
