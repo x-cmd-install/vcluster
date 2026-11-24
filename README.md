@@ -14,11 +14,11 @@ x install vcluster
 
 ## Code insight
 
-Total: **148,930** lines of code across **979** files in the top 5 languages.
+Total: **150,801** lines of code across **990** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 114,979 | 10,604 | 18,270 | 810 |
+| Go | 116,850 | 10,748 | 18,515 | 821 |
 | Yaml | 25,653 | 948 | 1,671 | 144 |
 | Json | 6,738 | 0 | 0 | 2 |
 | Pan | 757 | 0 | 34 | 9 |
@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.38.0` (2026-11-17)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-23
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,394 · **Forks**: 636 · **Open issues**: 787 · **Contributors**: 178
+- **Stars**: 11,406 · **Forks**: 635 · **Open issues**: 788 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 755 · **Merged PRs**: 2969 · **Open PRs**: 81 · **Closed issues**: 659 · **Open issues**: 128 · **Commits**: 4543
+- **Releases**: 755 · **Merged PRs**: 2971 · **Open PRs**: 82 · **Closed issues**: 659 · **Open issues**: 129 · **Commits**: 4546
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 32 | 22 | 15 | 1 | 9 | 20 |
-| last60d | 2026-09-24 | 49 | 38 | 30 | 4 | 19 | 42 |
-| 90d | 2026-08-25 | 71 | 50 | 45 | 7 | 19 | 70 |
-| last180d | 2026-05-27 | 100 | 177 | 56 | 13 | 29 | 185 |
-| 360d | 2025-11-28 | 100 | 630 | 69 | 39 | 41 | 459 |
-| last720d | 2024-12-03 | 100 | 1453 | 77 | 118 | 64 | 1095 |
+| 30d | 2026-10-25 | 32 | 24 | 16 | 1 | 10 | 23 |
+| last60d | 2026-09-25 | 49 | 40 | 31 | 4 | 20 | 45 |
+| 90d | 2026-08-26 | 71 | 51 | 46 | 6 | 20 | 73 |
+| last180d | 2026-05-28 | 100 | 173 | 57 | 13 | 30 | 188 |
+| 360d | 2025-11-29 | 100 | 632 | 70 | 38 | 42 | 462 |
+| last720d | 2024-12-04 | 100 | 1450 | 78 | 117 | 65 | 1098 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:39:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:35:37Z._
