@@ -14,14 +14,14 @@ x install vcluster
 
 ## Code insight
 
-Total: **150,801** lines of code across **990** files in the top 5 languages.
+Total: **151,325** lines of code across **994** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 116,850 | 10,748 | 18,515 | 821 |
-| Yaml | 25,653 | 948 | 1,671 | 144 |
+| Go | 116,951 | 10,766 | 18,533 | 823 |
+| Yaml | 26,022 | 948 | 1,683 | 146 |
 | Json | 6,738 | 0 | 0 | 2 |
-| Pan | 757 | 0 | 34 | 9 |
+| Pan | 811 | 0 | 38 | 9 |
 | Sh | 656 | 91 | 155 | 14 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.38.0` (2026-11-17)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 11,406 · **Forks**: 635 · **Open issues**: 788 · **Contributors**: 180
+- **Stars**: 11,408 · **Forks**: 637 · **Open issues**: 788 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 755 · **Merged PRs**: 2971 · **Open PRs**: 82 · **Closed issues**: 659 · **Open issues**: 129 · **Commits**: 4546
+- **Releases**: 755 · **Merged PRs**: 2971 · **Open PRs**: 83 · **Closed issues**: 659 · **Open issues**: 129 · **Commits**: 4548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 32 | 24 | 16 | 1 | 10 | 23 |
-| last60d | 2026-09-25 | 49 | 40 | 31 | 4 | 20 | 45 |
-| 90d | 2026-08-26 | 71 | 51 | 46 | 6 | 20 | 73 |
-| last180d | 2026-05-28 | 100 | 173 | 57 | 13 | 30 | 188 |
-| 360d | 2025-11-29 | 100 | 632 | 70 | 38 | 42 | 462 |
-| last720d | 2024-12-04 | 100 | 1450 | 78 | 117 | 65 | 1098 |
+| 30d | 2026-10-26 | 32 | 24 | 15 | 1 | 9 | 25 |
+| last60d | 2026-09-26 | 48 | 40 | 32 | 4 | 20 | 47 |
+| 90d | 2026-08-27 | 69 | 50 | 38 | 6 | 20 | 75 |
+| last180d | 2026-05-29 | 100 | 171 | 58 | 13 | 30 | 190 |
+| 360d | 2025-11-30 | 100 | 632 | 71 | 38 | 42 | 464 |
+| last720d | 2024-12-05 | 100 | 1447 | 79 | 117 | 65 | 1091 |
 
 ## Release assets
 
@@ -110,15 +110,6 @@ Lowest-scoring checks:
 | [vcluster-windows-amd64.exe](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-windows-amd64.exe) | 101.1 MiB | `native/win/x64` |
 | [vcluster-windows-amd64.exe.sbom](https://github.com/loft-sh/vcluster/releases/download/v0.38.0/vcluster-windows-amd64.exe.sbom) | 379.3 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/vcluster). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.38.0` | ✅ latest |
-| Nix unstable | `0.35.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vcluster` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -128,4 +119,4 @@ Install metadata for vcluster lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:35:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:29:10Z._
